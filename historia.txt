@@ -1,4 +1,4 @@
-Es mi primer dia en la carrera de ddata scient
+Es mi primer dia en la carrera de data scient
 
 Esperemos que todo salga bien
 
@@ -7,3 +7,7 @@ Vamos ahi
 Empecemos
 
 Paso 1
+
+Aprender Git Y gitHub 
+
+Aprendiendo a utilizar git y github.
