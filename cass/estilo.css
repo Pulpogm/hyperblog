@@ -1,8 +1,8 @@
 body
 {
     color: #333;
-    text-align: left;
-    font-family: Courier;
+    text-align: center;
+    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -16,6 +16,7 @@ body
     margin: 0;
     padding: 0.5em;
 }
+
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
@@ -34,12 +35,8 @@ body
 #container h1
 {
     font-size: 20px;
-<<<<<<< HEAD
- } 
-=======
 }
 #post
 {
     padding: 1em;
 }
->>>>>>> cabecera
